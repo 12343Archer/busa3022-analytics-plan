@@ -1,0 +1,19 @@
+run_id,timestamp_utc,source,record_key,check_name,severity,action,detail
+20261022T101759Z,2026-10-22T10:32:28.397331+00:00,asx200,2026-06-29,zero_or_missing_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:32:28.397423+00:00,asx200,2026-10-22,zero_or_missing_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:32:28.419847+00:00,fred_vixcls,2025-12-25,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:32:28.419918+00:00,fred_vixcls,2026-01-01,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:32:28.419965+00:00,fred_vixcls,2026-04-03,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:34:45.883688+00:00,join,2026-01-02,vix_forward_filled,warning,fixed,used VIX from 2025-12-31
+20261022T101759Z,2026-10-22T10:34:45.883715+00:00,join,2026-10-22,vix_forward_filled,warning,fixed,used VIX from 2026-10-20
+20261022T101759Z,2026-10-22T10:44:15.526516+00:00,asx200,2026-06-29,zero_or_missing_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.526569+00:00,asx200,2026-10-22,zero_or_missing_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.526719+00:00,asx200,2026-10-12,repeated_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.526750+00:00,asx200,2026-10-13,repeated_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.526777+00:00,asx200,2026-10-14,repeated_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.526803+00:00,asx200,2026-10-15,repeated_volume,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.521482+00:00,fred_vixcls,2025-12-25,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.521537+00:00,fred_vixcls,2026-01-01,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.521582+00:00,fred_vixcls,2026-04-03,missing_value_fred,warning,flagged,kept in curated
+20261022T101759Z,2026-10-22T10:44:15.534794+00:00,join,2026-01-02,vix_forward_filled,warning,fixed,used VIX from 2025-12-31
+20261022T101759Z,2026-10-22T10:44:15.534820+00:00,join,2026-10-22,vix_forward_filled,warning,fixed,used VIX from 2026-10-20
